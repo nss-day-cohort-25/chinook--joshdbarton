@@ -1,0 +1,2 @@
+SELECT distinct Invoice.BillingCountry
+FROM Invoice
